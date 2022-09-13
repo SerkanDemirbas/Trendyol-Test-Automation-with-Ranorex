@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="745a2253-2f1b-461e-b965-a5834f367b93"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenBrowser"
+	namespace="Trendyol_Test_Automation_with_Ranorex">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="Chrome"
+		clearcache="False"
+		clearcodecache="False"
+		clearcookies="False"
+		clearserviceworker="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				https://www.trendyol.com/
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="b258079e-6936-4af4-be00-ff39c06841b4"
+	name="Trendyol_Test_Automation_with_RanorexRepository"
+	relativepath="Trendyol_Test_Automation_with_RanorexRepository.rxrep">
+		<codegen
+		classname="Trendyol_Test_Automation_with_RanorexRepository"
+		namespace="Trendyol_Test_Automation_with_Ranorex">
+		</codegen>
+		<rootfolder
+		id="49cdbdd9-4eb7-4762-adb1-c06462abc593"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		OpenBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

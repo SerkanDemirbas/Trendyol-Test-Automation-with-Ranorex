@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="65b1a3a2-39d9-459d-865e-11c39506f00e"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording8"
+	namespace="Trendyol_Test_Automation_with_Ranorex">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="b258079e-6936-4af4-be00-ff39c06841b4"
+	name="Trendyol_Test_Automation_with_RanorexRepository"
+	relativepath="Trendyol_Test_Automation_with_RanorexRepository.rxrep">
+		<codegen
+		classname="Trendyol_Test_Automation_with_RanorexRepository"
+		namespace="Trendyol_Test_Automation_with_Ranorex">
+		</codegen>
+		<rootfolder
+		id="49cdbdd9-4eb7-4762-adb1-c06462abc593"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording8.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

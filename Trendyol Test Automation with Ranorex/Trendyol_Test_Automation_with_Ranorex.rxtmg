@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="10.2">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<modulegroups
+			id="65aa32ae-a18a-4d43-a523-a10131a86f8e"
+			name="Trendyol_Test_Automation_with_Ranorex">
+			</modulegroups>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			id="65aa32ae-a18a-4d43-a523-a10131a86f8e"
+			name="Trendyol_Test_Automation_with_Ranorex">
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
+</modulegroupdoc>
